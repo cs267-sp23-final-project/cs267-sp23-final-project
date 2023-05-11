@@ -1,0 +1,8 @@
+build/
+!blender_synth_cuda/build/run_cuda.sh
+dataset_100/
+blender_data/
+*.DS_Store
+*.pyc
+james_workspace
+*.npy

@@ -1,0 +1,9 @@
+blender_data*
+*.pcd
+ignore/*
+*.ipynb
+output*
+taichi_output*
+*.zip
+dataset_100/*
+*.npy
